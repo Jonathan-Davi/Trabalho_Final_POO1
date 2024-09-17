@@ -20,11 +20,11 @@ Este projeto Java implementa uma interface gráfica que oferece uma experiência
 
 ## Capturas de Tela
 
-![Interface Principal do Projeto](projetopooimg1.png)
+![Interface Principal do Projeto](projetoimg1.png)
 ![Interface Spanakopita do Projeto](projetopooimg2.png)
 ![Interface História do Projeto](projetopooimg3.png)
 ![Interface Sobre do Projeto](projetopooimg4.png)
 
 ## Autor
 
-Desenvolvido por **Jonathan Davi de Auino**.
+Desenvolvido por **Jonathan Davi de Aquino**.
