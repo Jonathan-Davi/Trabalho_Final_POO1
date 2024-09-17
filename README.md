@@ -18,12 +18,6 @@ Este projeto Java implementa uma interface gráfica que oferece uma experiência
 - **Java AWT**: Para a manipulação de componentes gráficos.
 - **JDK 11**: Versão do Java utilizada no desenvolvimento do projeto.
 
-## Como Executar o Projeto
-
-1. Clone este repositório: `git clone https://github.com/Vilelajlr/Trabalho-JavaPOO.git`
-2. Importe o projeto em sua IDE de preferência (Eclipse, IntelliJ, etc.).
-3. Execute o arquivo principal (`Main.java`) para iniciar a interface gráfica.
-
 ## Capturas de Tela
 
 ![Interface Principal do Projeto](projetopooimg1.png)
@@ -33,8 +27,4 @@ Este projeto Java implementa uma interface gráfica que oferece uma experiência
 
 ## Autor
 
-Desenvolvido por **José Leandro Vilela**.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Desenvolvido por **Jonathan Davi de Auino**.
